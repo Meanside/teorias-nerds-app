@@ -1,5 +1,7 @@
 # Teorias Nerds
 
+🔗 **Repositório no GitHub:** [https://github.com/Meanside/teorias-nerds-app](https://github.com/Meanside/teorias-nerds-app)
+
 ## Descrição
 O **Teorias Nerds** é um aplicativo mobile focado em centralizar as mais diversas especulações, análises e teorias do mundo geek. O problema que ele resolve é a fragmentação desse tipo de conteúdo, que geralmente fica perdido em fóruns gigantescos ou comentários de redes sociais, permitindo que usuários criem e debatam hipóteses profundas sobre suas obras favoritas de forma estruturada e em uma plataforma dedicada.
 
